@@ -1,13 +1,33 @@
 {
   "project_info": {
-    "project_number": "508850397000",
-    "project_id": "efrei092023m2gr1",
-    "storage_bucket": "efrei092023m2gr1.appspot.com"
+    "project_number": "93276316688",
+    "firebase_url": "https://live-chat-fluu-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "live-chat-fluu",
+    "storage_bucket": "live-chat-fluu.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:508850397000:android:81ab8d0e1b91b8a08add7d",
+        "mobilesdk_app_id": "1:93276316688:android:b71be218938dd61ddc1695",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-fqmOF4ss-4IURUh8SpIln2hY_nRlM6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93276316688:android:aee7872847238a1edc1695",
         "android_client_info": {
           "package_name": "com.example.eferei2023gr109"
         }
@@ -15,7 +35,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBdenLCZsIpTsPQ5DBRZWrUZZOwwkSeMTE"
+          "current_key": "AIzaSyB-fqmOF4ss-4IURUh8SpIln2hY_nRlM6E"
         }
       ],
       "services": {

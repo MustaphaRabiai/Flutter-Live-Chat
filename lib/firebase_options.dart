@@ -44,38 +44,42 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyADne0Vd11Gf9K_IiDUf68TAf2lcMWe8AY',
-    appId: '1:508850397000:web:342f30e39741c6988add7d',
-    messagingSenderId: '508850397000',
-    projectId: 'efrei092023m2gr1',
-    authDomain: 'efrei092023m2gr1.firebaseapp.com',
-    storageBucket: 'efrei092023m2gr1.appspot.com',
-    measurementId: 'G-PKDL2EVBVR',
+    apiKey: 'AIzaSyBl_bcWkicYF4p-WVmZPq7z_B84BMgHJ3I',
+    appId: '1:93276316688:web:3789e23012c4d42bdc1695',
+    messagingSenderId: '93276316688',
+    projectId: 'live-chat-fluu',
+    authDomain: 'live-chat-fluu.firebaseapp.com',
+    databaseURL: 'https://live-chat-fluu-default-rtdb.europe-west1.firebasedatabase.app',
+    storageBucket: 'live-chat-fluu.appspot.com',
+    measurementId: 'G-60KJTEB6CQ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBdenLCZsIpTsPQ5DBRZWrUZZOwwkSeMTE',
-    appId: '1:508850397000:android:81ab8d0e1b91b8a08add7d',
-    messagingSenderId: '508850397000',
-    projectId: 'efrei092023m2gr1',
-    storageBucket: 'efrei092023m2gr1.appspot.com',
+    apiKey: 'AIzaSyB-fqmOF4ss-4IURUh8SpIln2hY_nRlM6E',
+    appId: '1:93276316688:android:aee7872847238a1edc1695',
+    messagingSenderId: '93276316688',
+    projectId: 'live-chat-fluu',
+    databaseURL: 'https://live-chat-fluu-default-rtdb.europe-west1.firebasedatabase.app',
+    storageBucket: 'live-chat-fluu.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDg5OORxFVmjzCn0neH7MhBMj37b3m-xMc',
-    appId: '1:508850397000:ios:c7b221a9b730dfb08add7d',
-    messagingSenderId: '508850397000',
-    projectId: 'efrei092023m2gr1',
-    storageBucket: 'efrei092023m2gr1.appspot.com',
+    apiKey: 'AIzaSyDoO5p8caAbrYmV9KA1mRVJsY8HMyn7Wjo',
+    appId: '1:93276316688:ios:0af2ff25c3f2cd90dc1695',
+    messagingSenderId: '93276316688',
+    projectId: 'live-chat-fluu',
+    databaseURL: 'https://live-chat-fluu-default-rtdb.europe-west1.firebasedatabase.app',
+    storageBucket: 'live-chat-fluu.appspot.com',
     iosBundleId: 'com.example.eferei2023gr109',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDg5OORxFVmjzCn0neH7MhBMj37b3m-xMc',
-    appId: '1:508850397000:ios:b7352f942b4f6de28add7d',
-    messagingSenderId: '508850397000',
-    projectId: 'efrei092023m2gr1',
-    storageBucket: 'efrei092023m2gr1.appspot.com',
+    apiKey: 'AIzaSyDoO5p8caAbrYmV9KA1mRVJsY8HMyn7Wjo',
+    appId: '1:93276316688:ios:bbe72077d460b869dc1695',
+    messagingSenderId: '93276316688',
+    projectId: 'live-chat-fluu',
+    databaseURL: 'https://live-chat-fluu-default-rtdb.europe-west1.firebasedatabase.app',
+    storageBucket: 'live-chat-fluu.appspot.com',
     iosBundleId: 'com.example.eferei2023gr109.RunnerTests',
   );
 }
