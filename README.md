@@ -9,7 +9,7 @@
 
 1. Clonez le répertoire du projet :
     - git clone https://github.com/MustaphaRabiai/Flutter-Live-Chat.git
-    - cd mobile
+    - cd Flutter-Live-Chat
 
 ⚠️ Assurez-vous que Flutter est correctement installé sur votre machine ⚠️
 
