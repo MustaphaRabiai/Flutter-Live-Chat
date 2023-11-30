@@ -8,7 +8,7 @@
 ## Installation Flutter
 
 1. Clonez le répertoire du projet :
-    - git clone https://github.com/Archi398/efrei-projet-web.git
+    - git clone https://github.com/MustaphaRabiai/Flutter-Live-Chat.git
     - cd mobile
 
 ⚠️ Assurez-vous que Flutter est correctement installé sur votre machine ⚠️
