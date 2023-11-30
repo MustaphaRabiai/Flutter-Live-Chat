@@ -1,16 +1,30 @@
-# eferei2023gr109
+#  Flutter - Flutter-Live-Chat
 
-A new Flutter project.
+## Fonctionnalités Principales
 
-## Getting Started
+- **Authentification des Utilisateurs :** Enregistrez-vous, connectez-vous et gérez votre profil pour une expérience personnalisée.
+- **Système de Chat :** Communiquez facilement avec le service client pour obtenir facilement de l'aide !
 
-This project is a starting point for a Flutter application.
+## Installation Flutter
 
-A few resources to get you started if this is your first Flutter project:
+1. Clonez le répertoire du projet :
+    - git clone https://github.com/Archi398/efrei-projet-web.git
+    - cd mobile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+⚠️ Assurez-vous que Flutter est correctement installé sur votre machine ⚠️
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Installez les dépendances :
+    - flutter pub get
+
+3. Configurez Firebase :
+    - Créez un projet Firebase.
+    - Ajoutez le fichier de configuration google-services.json dans le répertoire android/app
+
+4. Lancez l'application sur un émulateur ou un appareil :
+    - flutter run
+
+## Informations
+
+**Auteurs**
+
+Anis MEZIANE - Hubert TRUONG - Mustapha RABIAI
